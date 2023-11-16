@@ -4,10 +4,6 @@
  */
 package lab9;
 
-/**
- *
- * @author chris
- */
 public class Lab9 {
 
     /**
