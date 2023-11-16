@@ -4,6 +4,13 @@
  */
 package lab9;
 
+<<<<<<< HEAD
+=======
+/**
+ *
+ * @author chris
+ */
+>>>>>>> bb08c640a5ec3a55707e448351259926755087ab
 public class Lab9 {
 
     /**

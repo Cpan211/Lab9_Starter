@@ -1,5 +1,14 @@
 package lab9;
 
+<<<<<<< HEAD
+=======
+import java.util.Stack;
+
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+>>>>>>> bb08c640a5ec3a55707e448351259926755087ab
 /**
  *
  * @author chris
